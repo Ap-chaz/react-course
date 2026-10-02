@@ -1,3 +1,6 @@
+import './header.css';
+import './HomePage.css';
+
 function HomePage () {
   return (
     <>
@@ -186,3 +189,5 @@ function HomePage () {
     </>
   );
 }
+
+export default HomePage;
