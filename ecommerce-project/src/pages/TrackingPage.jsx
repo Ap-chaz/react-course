@@ -1,9 +1,11 @@
-import './header.css';
+import Header from '../components/Header';
 import './TrackingPage.css';
 
 function TrackingPage() {
   return (
     <>
+      <Header />
+      
       <title>Tracking</title>
 
       <div className="header">
