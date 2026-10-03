@@ -17,7 +17,7 @@ function Header() {
         <input className="search-bar" type="text" placeholder="Search" />
 
         <button className="search-button">
-          <img className="search-icon" src="images/icons/search-icon.png" />
+          <ismg className="search-icon" src="images/icons/search-icon.png" />
         </button>
       </div>
 
